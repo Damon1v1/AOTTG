@@ -1,12 +1,19 @@
-import { React, Component } from 'react';
+import { React } from 'react';
 import Header from '../../components/Header';
 import './Home.css';
 
 function Home() {
     return (
-        <div className="Container">
-            <Header />
+        <div>
+            <div>
+                <Header />
+            </div>
+
+            <div>
+                
+            </div>
         </div>
+            
     );
 };
 
