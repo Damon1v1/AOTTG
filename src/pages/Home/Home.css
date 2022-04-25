@@ -4,3 +4,9 @@
     font-size: 20px;
     text-decoration: underline;
 };
+
+.mission {
+    margin-top: 10px;
+    color: #050608;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+};

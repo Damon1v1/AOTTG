@@ -13,6 +13,10 @@ function Home() {
             <div>
                 <Banner />
             </div>
+
+            <div>
+                <h1 className='mission'>STRIVING TO CONTINUE AN INDIE GAME KNOWN AS THE ATTACK ON TITAN TRIBUTE GAME</h1>
+            </div>
         </div>
             
     );
